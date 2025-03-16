@@ -24,7 +24,7 @@ C++ in 2024 continues to be a powerhouse for system-level programming and high-p
   </tr>
   <tr>
     <td>
-      <img align="center" src="" alt="ScreenShort 1 of Application" width="300" />
+      <img align="center" src="https://github.com/CodeWithRitikBoss/Cpp_Programming_YT_Course/blob/master/C%2B%2B%20Programming%20Thumbnails/04%20Keywords%20in%20C%2B%2B.png" alt="ScreenShort 1 of Application" width="300" />
     </td>
     <td>
       <img align="center" src="" alt="ScreenShort 2 of Application" width="300" />
